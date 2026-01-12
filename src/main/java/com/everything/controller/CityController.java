@@ -31,8 +31,4 @@ public class CityController {
         return new ResponseEntity<>(allCity,HttpStatus.OK);
     }
 
-
-3
-
-
 }
